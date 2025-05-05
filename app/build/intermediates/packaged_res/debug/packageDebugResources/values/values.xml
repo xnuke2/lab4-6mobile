@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="light_purple_alpha_20">#33AB47BC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Сотрудники</string>
+    <string name="btnLogin">Авторизироваться</string>
+    <string name="btnRegistrate">Зарегистрироваться</string>
+    <string name="btnToLogin">К авторизации</string>
+    <string name="btnToRegistration">К регистрации</string>
+    <string name="enterDivision">Подразделение</string>
+    <string name="enterFirstName">Имя</string>
+    <string name="enterLastName">Фамилия</string>
+    <string name="enterMiddleName">Отчество</string>
+    <string name="enterPhone">Телефон</string>
+    <string name="enterProfession">Профессия</string>
+    <string name="enter_mail">Введите почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <style name="Base.Theme.Lab46mobile" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab46mobile" parent="Base.Theme.Lab46mobile"/>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.lab4_6mobile.app-mergeDebugResources-32:/layout/activity_registration.xml",
+        "source": "com.example.lab4_6mobile.app-main-35:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-mergeDebugResources-32:\\layout\\activity_all_users.xml",
+        "source": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-main-35:\\layout\\activity_all_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-mergeDebugResources-32:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-main-35:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-mergeDebugResources-32:\\layout\\item_person.xml",
+        "source": "C:\\Users\\X Nuke\\.gradle\\daemon\\8.10.2\\com.example.lab4_6mobile.app-main-35:\\layout\\item_person.xml"
+    }
+]
