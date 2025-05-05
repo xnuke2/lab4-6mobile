@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Сотрудники</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_mail">Введите почту</string>
+    <string name="btnLogin">Авторизироваться</string>
+    <string name="btnRegistrate">Зарегистрироваться</string>
+    <string name="enterLastName">Фамилия</string>
+    <string name="enterFirstName">Имя</string>
+    <string name="enterMiddleName">Отчество</string>
+    <string name="enterPhone">Телефон</string>
+    <string name="enterProfession">Профессия</string>
+    <string name="enterDivision">Подразделение</string>
+    <string name="btnToRegistration">К регистрации</string>
+    <string name="btnToLogin">К авторизации</string>
+    <string name="btnBack">Назад</string>
+</resources>
